@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="f-cart-web:war">
+    <output-path>$PROJECT_DIR$/f-cart-web/target</output-path>
+    <root id="archive" name="f-cart-web.war">
+      <element id="artifact" artifact-name="f-cart-web:war exploded" />
+    </root>
+  </artifact>
+</component>

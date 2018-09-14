@@ -1,0 +1,3 @@
+cn\footman\sso\service\impl\TokenServiceImpl.class
+cn\footman\sso\service\impl\LoginServiceImpl.class
+cn\footman\sso\service\impl\RegisterServiceImpl.class

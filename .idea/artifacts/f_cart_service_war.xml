@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="f-cart-service:war">
+    <output-path>$PROJECT_DIR$/f-cart/f-cart-service/target</output-path>
+    <root id="archive" name="f-cart-service.war">
+      <element id="artifact" artifact-name="f-cart-service:war exploded" />
+    </root>
+  </artifact>
+</component>

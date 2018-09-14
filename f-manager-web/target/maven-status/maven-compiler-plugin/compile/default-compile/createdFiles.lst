@@ -1,0 +1,7 @@
+cn\footman\controller\ImportItemController.class
+cn\footman\controller\ItemCatController.class
+cn\footman\controller\ItemController.class
+cn\footman\controller\PageController.class
+cn\footman\controller\ContentCatController.class
+cn\footman\controller\PictureController.class
+cn\footman\controller\ContentController.class

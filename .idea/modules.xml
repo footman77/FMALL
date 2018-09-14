@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/f-cart/f-cart.iml" filepath="$PROJECT_DIR$/f-cart/f-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-cart/f-cart-interface/f-cart-interface.iml" filepath="$PROJECT_DIR$/f-cart/f-cart-interface/f-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-cart/f-cart-service/f-cart-service.iml" filepath="$PROJECT_DIR$/f-cart/f-cart-service/f-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-cart-web/f-cart-web.iml" filepath="$PROJECT_DIR$/f-cart-web/f-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-common/f-common.iml" filepath="$PROJECT_DIR$/f-common/f-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-content/f-content.iml" filepath="$PROJECT_DIR$/f-content/f-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-content/f-content-interface/f-content-interface.iml" filepath="$PROJECT_DIR$/f-content/f-content-interface/f-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-content/f-content-service/f-content-service.iml" filepath="$PROJECT_DIR$/f-content/f-content-service/f-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-item-web/f-item-web.iml" filepath="$PROJECT_DIR$/f-item-web/f-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-manager/f-manager.iml" filepath="$PROJECT_DIR$/f-manager/f-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-manager/f-manager-dao/f-manager-dao.iml" filepath="$PROJECT_DIR$/f-manager/f-manager-dao/f-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-manager/f-manager-interface/f-manager-interface.iml" filepath="$PROJECT_DIR$/f-manager/f-manager-interface/f-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-manager/f-manager-pojo/f-manager-pojo.iml" filepath="$PROJECT_DIR$/f-manager/f-manager-pojo/f-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-manager/f-manager-service/f-manager-service.iml" filepath="$PROJECT_DIR$/f-manager/f-manager-service/f-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-manager-web/f-manager-web.iml" filepath="$PROJECT_DIR$/f-manager-web/f-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-order/f-order.iml" filepath="$PROJECT_DIR$/f-order/f-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-order/f-order-interface/f-order-interface.iml" filepath="$PROJECT_DIR$/f-order/f-order-interface/f-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-order/f-order-service/f-order-service.iml" filepath="$PROJECT_DIR$/f-order/f-order-service/f-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-order-web/f-order-web.iml" filepath="$PROJECT_DIR$/f-order-web/f-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-parent/f-parent.iml" filepath="$PROJECT_DIR$/f-parent/f-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-portal-web/f-portal-web.iml" filepath="$PROJECT_DIR$/f-portal-web/f-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-search/f-search.iml" filepath="$PROJECT_DIR$/f-search/f-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-search/f-search-interface/f-search-interface.iml" filepath="$PROJECT_DIR$/f-search/f-search-interface/f-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-search/f-search-service/f-search-service.iml" filepath="$PROJECT_DIR$/f-search/f-search-service/f-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-search-web/f-search-web.iml" filepath="$PROJECT_DIR$/f-search-web/f-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-sso/f-sso.iml" filepath="$PROJECT_DIR$/f-sso/f-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-sso/f-sso-interface/f-sso-interface.iml" filepath="$PROJECT_DIR$/f-sso/f-sso-interface/f-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-sso/f-sso-service/f-sso-service.iml" filepath="$PROJECT_DIR$/f-sso/f-sso-service/f-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-sso-web/f-sso-web.iml" filepath="$PROJECT_DIR$/f-sso-web/f-sso-web.iml" />
+    </modules>
+  </component>
+</project>

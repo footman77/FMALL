@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="f-content-service:war">
+    <output-path>$PROJECT_DIR$/f-content/f-content-service/target</output-path>
+    <root id="archive" name="f-content-service.war">
+      <element id="artifact" artifact-name="f-content-service:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/f-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-cart/f-cart-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-cart/f-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-content/f-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-content/f-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-item-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-manager/f-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-manager/f-manager-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-manager/f-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-manager/f-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-order/f-order-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-order/f-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-search/f-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-search/f-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-sso-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-sso/f-sso-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/f-sso/f-sso-service" charset="UTF-8" />
+  </component>
+</project>

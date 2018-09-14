@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="f-sso-service:war">
+    <output-path>$PROJECT_DIR$/f-sso/f-sso-service/target</output-path>
+    <root id="archive" name="f-sso-service.war">
+      <element id="artifact" artifact-name="f-sso-service:war exploded" />
+    </root>
+  </artifact>
+</component>

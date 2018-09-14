@@ -1,0 +1,12 @@
+cn\footman\mapper\TbUserMapper.class
+cn\footman\mapper\TbContentCategoryMapper.class
+cn\footman\mapper\TbItemDescMapper.class
+cn\footman\App.class
+cn\footman\mapper\TbItemCatMapper.class
+cn\footman\mapper\TbItemParamMapper.class
+cn\footman\mapper\TbContentMapper.class
+cn\footman\mapper\TbItemMapper.class
+cn\footman\mapper\TbOrderShippingMapper.class
+cn\footman\mapper\TbOrderMapper.class
+cn\footman\mapper\TbItemParamItemMapper.class
+cn\footman\mapper\TbOrderItemMapper.class

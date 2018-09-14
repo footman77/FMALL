@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:12:08 +0800] "GET /cart/cart.html HTTP/1.1" 200 16239 http-bio-8091-exec-1 1016
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:12:10 +0800] "GET /images/indexImg20130307.png HTTP/1.1" 200 55428 http-bio-8091-exec-3 33
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:12:22 +0800] "GET /cart/cart.html HTTP/1.1" 200 20060 http-bio-8091-exec-6 226
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:20:07 +0800] "GET /cart/add/153650633454656.html?num=2 HTTP/1.1" 200 18544 http-bio-8091-exec-9 481
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:20:08 +0800] "GET /cart/cart.html HTTP/1.1" 200 18109 http-bio-8091-exec-9 9
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:25:10 +0800] "GET /cart/cart.html HTTP/1.1" 200 18109 http-bio-8091-exec-2 11
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:25:12 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8091-exec-2 2
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:26 +0800] "GET /cart/add/153633138971162.html?num=2 HTTP/1.1" 200 18544 http-bio-8091-exec-7 14
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:27 +0800] "GET /cart/cart.html HTTP/1.1" 200 18199 http-bio-8091-exec-7 10
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:29:21 +0800] "GET /cart/cart.html HTTP/1.1" 200 16239 http-bio-8091-exec-3 13
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:29:28 +0800] "GET /cart/add/153657208408549.html?num=3 HTTP/1.1" 200 18544 http-bio-8091-exec-3 11
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:29:29 +0800] "GET /cart/cart.html HTTP/1.1" 200 18189 http-bio-8091-exec-3 11

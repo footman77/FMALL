@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="f-cart-interface" />
+        <module name="f-cart-service" />
+        <module name="f-cart-web" />
+        <module name="f-common" />
+        <module name="f-content-interface" />
+        <module name="f-content-service" />
+        <module name="f-item-web" />
+        <module name="f-manager-dao" />
+        <module name="f-manager-interface" />
+        <module name="f-manager-pojo" />
+        <module name="f-manager-service" />
+        <module name="f-manager-web" />
+        <module name="f-order-interface" />
+        <module name="f-order-service" />
+        <module name="f-order-web" />
+        <module name="f-portal-web" />
+        <module name="f-search-interface" />
+        <module name="f-search-service" />
+        <module name="f-search-web" />
+        <module name="f-sso-interface" />
+        <module name="f-sso-service" />
+        <module name="f-sso-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="f-cart" target="1.8" />
+      <module name="f-cart-interface" target="1.8" />
+      <module name="f-cart-server" target="1.8" />
+      <module name="f-cart-service" target="1.8" />
+      <module name="f-cart-web" target="1.8" />
+      <module name="f-common" target="1.8" />
+      <module name="f-content" target="1.8" />
+      <module name="f-content-interface" target="1.8" />
+      <module name="f-content-service" target="1.8" />
+      <module name="f-item-web" target="1.8" />
+      <module name="f-manager" target="1.8" />
+      <module name="f-manager-dao" target="1.8" />
+      <module name="f-manager-interface" target="1.8" />
+      <module name="f-manager-pojo" target="1.8" />
+      <module name="f-manager-service" target="1.8" />
+      <module name="f-manager-web" target="1.8" />
+      <module name="f-order" target="1.8" />
+      <module name="f-order-interface" target="1.8" />
+      <module name="f-order-service" target="1.8" />
+      <module name="f-order-web" target="1.8" />
+      <module name="f-parent" target="1.8" />
+      <module name="f-portal-web" target="1.8" />
+      <module name="f-search" target="1.8" />
+      <module name="f-search-interface" target="1.8" />
+      <module name="f-search-service" target="1.8" />
+      <module name="f-search-web" target="1.8" />
+      <module name="f-sso" target="1.8" />
+      <module name="f-sso-interface" target="1.8" />
+      <module name="f-sso-service" target="1.8" />
+      <module name="f-sso-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

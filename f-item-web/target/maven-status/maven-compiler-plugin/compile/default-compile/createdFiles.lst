@@ -1,0 +1,4 @@
+cn\footman\item\controller\ItemController.class
+cn\footman\item\pojo\Item.class
+cn\footman\item\controller\HtmlGenController.class
+cn\footman\item\listener\HtmlGenListener.class

@@ -1,0 +1,4 @@
+cn\footman\sso\service\RegisterService.class
+cn\footman\App.class
+cn\footman\sso\service\TokenService.class
+cn\footman\sso\service\LoginService.class

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="f-order-service:war">
+    <output-path>$PROJECT_DIR$/f-order/f-order-service/target</output-path>
+    <root id="archive" name="f-order-service.war">
+      <element id="artifact" artifact-name="f-order-service:war exploded" />
+    </root>
+  </artifact>
+</component>

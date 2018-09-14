@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:20:01 +0800] "GET /search.html?keyword=iphone+8 HTTP/1.1" 200 85877 http-bio-8086-exec-1 1674
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /search.html?keyword=vivo HTTP/1.1" 200 23587 http-bio-8086-exec-4 17
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /css/productList.css HTTP/1.1" 200 17709 http-bio-8086-exec-6 16
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /js/jquery.alerts.js HTTP/1.1" 200 13958 http-bio-8086-exec-5 43
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /js/NewVersion.js?v=20160713 HTTP/1.1" 200 2923 http-bio-8086-exec-7 43
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /images/cate_bg.jpg HTTP/1.1" 200 296 http-bio-8086-exec-1 28
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /js/cookie.js?v=20160416222 HTTP/1.1" 200 10745 http-bio-8086-exec-8 65
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /images/header.png HTTP/1.1" 200 10751 http-bio-8086-exec-9 60
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /images/logo66.png HTTP/1.1" 200 16384 http-bio-8086-exec-10 53
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:23 +0800] "GET /images/productList.png HTTP/1.1" 200 3716 http-bio-8086-exec-2 79
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:27:27 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-4 2
+0:0:0:0:0:0:0:1 - - [13/Sep/2018:22:29:25 +0800] "GET /search.html?keyword=vivo HTTP/1.1" 200 23587 http-bio-8086-exec-11 10

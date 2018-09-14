@@ -1,0 +1,6 @@
+cn\footman\search\dao\SearchDao.class
+cn\footman\search\listener\ItemAddMessageListener.class
+cn\footman\search\mapper\ItemMapper.class
+cn\footman\search\service\impl\SearchServiceImpl.class
+cn\footman\search\service\impl\SearchItemServiceImpl.class
+cn\footman\search\listener\MyMessageListener.class

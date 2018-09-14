@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/f-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/f-cart/f-cart-server" />
+    <file type="web" url="file://$PROJECT_DIR$/f-cart/f-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/f-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/f-content/f-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/f-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/f-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/f-manager/f-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/f-manager/f-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/f-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/f-order/f-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/f-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/f-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/f-search/f-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/f-sso-service" />
+    <file type="web" url="file://$PROJECT_DIR$/f-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/f-sso/f-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/f-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/f-common/pom.xml" />
+        <option value="$PROJECT_DIR$/f-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/f-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/f-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/f-content/pom.xml" />
+        <option value="$PROJECT_DIR$/f-search/pom.xml" />
+        <option value="$PROJECT_DIR$/f-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/f-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/f-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/f-sso-web/pom.xml" />
+        <option value="$PROJECT_DIR$/f-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/f-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/f-order/pom.xml" />
+        <option value="$PROJECT_DIR$/f-order-web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/f-cart/f-cart-server/pom.xml" />
+        <option value="$PROJECT_DIR$/f-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/f-manager/f-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/f-sso-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" location="D:/jar/dubbo/dubbo.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
